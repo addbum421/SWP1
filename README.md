@@ -1,3 +1,4 @@
-20213028 Yoo Bum Ik
+20213028 
+Yoo Bum Ik
 
 kookmin university software
