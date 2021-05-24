@@ -1,4 +1,4 @@
-2021302 Yoo Bum IK
+2021302 Yoo Bum IK CS
 <<<<<<< HEAD
 
 Kookmin University
